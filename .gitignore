@@ -32,7 +32,7 @@ build/
 ### VS Code ###
 .vscode/
 
-## Eclipse ###
+## Eclipse (Ignora projetos anteriores para trabalhar com microserviços ###
 .metadata
 /cursospringbootmongodb
 /Curso-Spring-Boot
