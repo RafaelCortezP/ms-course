@@ -1,4 +1,4 @@
-package com.rafaelcortez.hrworke.entities;
+package com.rafaelcortez.hrworker.entities;
 
 import java.io.Serializable;
 
